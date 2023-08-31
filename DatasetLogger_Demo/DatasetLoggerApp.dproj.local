@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.417,=E:\ckProjects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.393,C:\Users\cihadkocasahan\Desktop\DatasetLogger\uMain.dfm=E:\ckProjects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.566,=C:\Users\cihadkocasahan\Desktop\DatasetLogger\JsonLog.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.393,C:\Users\cihadkocasahan\Desktop\DatasetLogger\uMain.pas=E:\ckProjects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.425,=E:\ckProjects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.203,C:\Users\cihadkocasahan\Desktop\DatasetLogger\DatasetLoggerApp.dproj=E:\ckProjects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.875,C:\Users\cihadkocasahan\Desktop\DatasetLogger\DatasetLogger.pas=E:\ckProjects\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
